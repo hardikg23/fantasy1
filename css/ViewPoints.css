@@ -1,0 +1,22 @@
+root {display: block;}
+body{background-image: url('../photos/background.jpg');}
+a{text-decoration: none;color: black;}
+.font-containt-bold{font-family: "Lao UI";font-weight: bold;}
+.font-containt{font-family: "Lao UI";}
+.box-shadow-comman{box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;-webkit-box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;-moz-box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;}
+.black-header{font-size: 14px;background-color: black;color: white;height: 22px;padding-left: 10px;}
+.div-header-img{box-shadow:1px 1px 2px 2px #504848;-webkit-box-shadow:1px 1px 2px 2px #504848;-moz-box-shadow:1px 1px 2px 2px #504848;}
+.transfer-left{color: white;background-color: purple;font-size: 30px;padding-left: 10px;padding-right: 10px;height: 40px;position: absolute;left: 10px;width: 85%;box-shadow:1px 1px 2px 2px #504848;-webkit-box-shadow:1px 1px 2px 2px #504848;-moz-box-shadow:1px 1px 2px 2px #504848;}
+.budeget-left{color: white;background-color: rgb(0, 128, 0);font-size: 30px;padding-left: 20px;height: 40px;position: absolute;left: 10px;width: 70%;box-shadow:1px 1px 2px 2px #504848;-webkit-box-shadow:1px 1px 2px 2px #504848;-moz-box-shadow:1px 1px 2px 2px #504848;}
+.player-name{position: absolute;top : 2px;left: 22px;font-weight: bold;color: white;}
+.player-item{box-shadow:1px 1px 2px 2px #504848;-webkit-box-shadow:1px 1px 1px 1px #504848;-moz-box-shadow:1px 1px 2px 2px #504848;}
+.user-data-table tr{padding-top: 0px;padding-bottom: 0px;}
+.user-data-manager{background-color: #BC4B0E;color: white;height: 15px;padding-left: 3px;font-size: 12px;}
+.user-data-rank{color: #B0082A;font-size: 24px;}
+.private-league-table{width: 100%;}
+.private-league-table th{text-align: left;padding-left: 4px;font-size: 12px;color: white;background-color: #047496;height: 20px;}
+.private-league-table td{padding-left: 4px;font-size: 14px;height: 15px;border-bottom: 1px solid silver;}
+.private-league-table-a{text-decoration: underline;}
+
+
+

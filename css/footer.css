@@ -1,0 +1,6 @@
+root {display: block;}
+td{}
+.main-item{position: absolute;top: 0px;font-family: "Lucida Fax";font-size: 19px;font-weight: bold;padding-bottom: 10px;}
+ .sub-item{position: absolute;top: 25px;font-family: 'Calibri';font-size: 12px;font-weight: 900;padding-bottom: 6px;}
+.main-sub-item{position: absolute;top: 0px;font-family: "Lucida Fax";font-size: 19px;font-weight: bold;padding-bottom: 6px;}
+.tags{font-size: 16px;color: black;position: absolute;top: 26px;left: 40;width: 90%;font-weight: bold;}

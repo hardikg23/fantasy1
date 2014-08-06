@@ -1,0 +1,26 @@
+root {display: block;}
+body{background-image: url('../photos/background.jpg');}
+a{text-decoration: none;color: black;}
+.font-containt-bold{font-family: "Lao UI";font-weight: bold;}
+.font-containt{font-family: "Lao UI";}
+.box-shadow-comman{box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;-webkit-box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;
+    -moz-box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;}
+.black-header{font-size: 14px;background-color: black;color: white;height: 22px;padding-left: 10px;}
+/***************** 11 Player team************************************/
+.match-points{color: white;background-color: purple;font-size: 16px;padding-left: 10px;padding-right: 10px;position: absolute;left: 10px;width: 85%;box-shadow:1px 1px 2px 2px #504848;
+    -webkit-box-shadow:1px 1px 2px 2px #504848;-moz-box-shadow:1px 1px 2px 2px #504848;}
+.player-name{position: absolute;top : 2px;left: 22px;font-weight: bold;   color: white;}
+.player-item{box-shadow:1px 1px 2px 2px #504848;-webkit-box-shadow:1px 1px 1px 1px #504848;-moz-box-shadow:1px 1px 2px 2px #504848;}
+/***************************************************************/
+/************ TREANSFER **************************************/
+.transfers-table{width: 100%;font-family: "Lao UI";}
+.transfers-table th{background-color: #265D04;color: white;font-size: 12px;font-weight: bold;text-align: left;padding-left: 5px;height: 20px;}
+.transfers-table td{font-size: 11px;padding-left: 5px;border-bottom: 1px solid #D7D7D7;color: #3C3C3C;height: 18px;}
+.transfers-out-table{width: 100%;font-family: "Lao UI";}
+.transfers-out-table th{background-color: #780707;color: white;font-size: 12px;font-weight: bold;text-align: left;padding-left: 5px;height: 20px;}
+.transfers-out-table td{font-size: 11px;padding-left: 5px;border-bottom: 1px solid #D7D7D7;color: #3C3C3C;height: 18px;}
+/*************************************************************/
+/***************** SCRROLER ************************************/
+.viewPointHistory{font-size: 10px;color: white;text-decoration: underline;}
+/***************************************************************/
+

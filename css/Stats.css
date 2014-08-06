@@ -1,0 +1,18 @@
+root {display: block;}
+body{background-image: url('../photos/background.jpg');}
+a{text-decoration: none;color: black;}
+.font-containt-bold{font-family: "Lao UI";font-weight: bold;}
+.font-containt{font-family: "Lao UI";}
+.box-shadow-comman{box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;-webkit-box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;
+    -moz-box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;}
+.filler{box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;-webkit-box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;
+    -moz-box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;}
+.black-header{font-size: 14px;background-color: black;color: white;height: 22px;padding-left: 10px;}
+.select-stats-container{font-size: 14px;font-weight: bold;padding-left: 10px;padding-top: 8px;}
+.team-stats-select{width: 150px;}
+.style-stats-select{width: 150px;}
+.para-stats-select{width: 150px;}
+.stats-table{width: 96%;border-left: 1px solid silver;border-right: 1px solid silver;}
+.stats-table th{color: white;background-color: #830707;text-align: left;font-size: 13px;height: 24px;padding-left: 4px;cursor: pointer;}
+.stats-table td{font-size: 12px;height: 18px;border-bottom:  1px solid silver;padding-left: 5px;}
+

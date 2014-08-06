@@ -1,0 +1,13 @@
+body{background-image: url('../photos/background.jpg');}
+a{text-decoration: none;color: black;}
+.font-containt-bold{font-family: "Lao UI";font-weight: bold;}
+.font-containt{font-family: "Lao UI";}
+.box-shadow-comman{box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;-webkit-box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;
+    -moz-box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;}
+.black-header{font-size: 14px;background-color: black;color: white;height: 22px;padding-left: 10px;}
+input[type=text],
+input[type=password]{padding-left: 4px;font-size: 11px;width: 150px;height: 18px;}
+#submit{width: 175px;height: 35px;border-radius:3px;color: white;font-size: 14px;font-weight: bolder;cursor: pointer;background-color: #167C07;border: 1px solid black;
+    box-shadow:1px 1px 1px 1px #504848;-webkit-box-shadow: 1px 1px 1px 1px #504848;-moz-box-shadow:1px 1px 1px 1px #504848;}
+
+

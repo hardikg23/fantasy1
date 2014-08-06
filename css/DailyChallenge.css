@@ -1,0 +1,58 @@
+root { display: block;}
+body{background-image: url('../photos/background.jpg');}
+a{text-decoration: none;color: black;}
+.font-containt-bold{font-family: "Lao UI";font-weight: bold;}
+.font-containt{font-family: "Lao UI";}
+.box-shadow-comman{box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;-webkit-box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;
+    -moz-box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;}
+.black-header{font-size: 14px;background-color: black;color: white;height: 22px;padding-left: 10px;}
+/******************************* MIAN BODY *************************************/
+.match-time-div{color: white;background-color: purple;font-size: 12px;padding-left: 10px;padding-right: 10px;height:25px;position: absolute;left: 25px;width: 80%;top:22px;
+    box-shadow:1px 1px 2px 2px #504848;-webkit-box-shadow:1px 1px 2px 2px #504848;-moz-box-shadow:1px 1px 2px 2px #504848;}
+.daily-points-div{color: white;background-color: purple;font-size: 30px;padding-left: 10px;padding-right: 10px;height: 40px;position: absolute;left: -10px;width: 65%;
+    box-shadow:1px 1px 2px 2px #504848;-webkit-box-shadow:1px 1px 2px 2px #504848;-moz-box-shadow:1px 1px 2px 2px #504848;}
+.budeget-div{background-color: green;color: white;font-size: 30px;padding-left: 20px;height: 40px;position: absolute;left: 10px;width: 70%;box-shadow:1px 1px 2px 2px #504848;
+    -webkit-box-shadow:1px 1px 2px 2px #504848;-moz-box-shadow:1px 1px 2px 2px #504848;}
+/*********************************************************************************/
+/************************11 player display************************/
+.player-name{position: absolute;top : 2px;left: 20px;font-weight: bold;color: white;}
+.player-item{box-shadow:1px 1px 2px 2px #504848;-webkit-box-shadow:1px 1px 1px 1px #504848;-moz-box-shadow:1px 1px 2px 2px #504848;}
+.header-div-daily{box-shadow:1px 1px 2px 2px #504848;-webkit-box-shadow:1px 1px 1px 1px #504848;-moz-box-shadow:1px 1px 2px 2px #504848;}
+/*********************************************************************************/
+/************  TEAM SELECTION **********************************/
+.select_team_1{width: 60px;padding-left: 4px;}
+.select_type_1{width: 100px;padding-left: 4px;}
+.selection-table{width: 100%;position: absolute;top: 0px;}
+.selection-table th{padding-left: 2px;padding-right: 2px;cursor:pointer;color: white;background-color: #41057A;font-size: 11px;height: 20px;text-align: left;}
+.selection-table td{padding-left: 2px;font-size: 11px;text-align: left;border-bottom: 1px solid #D9D9D9;height: 22px;}
+/*****************************************************************/
+/************** captain-selection **********************/
+.captain-save-button{width: 60px;height: 25px;border-radius:4px;background-color: #BA0808;cursor: pointer;color: white;border: 1px solid silver;box-shadow:1px 1px 2px 2px #504848;
+    -webkit-box-shadow:1px 1px 2px 2px #504848;-moz-box-shadow:1px 1px 2px 2px #504848;}
+.captain-reset-button{width: 60px;height: 25px;border-radius:4px;background-color: #077E09;cursor: pointer;color: white;border: 1px solid silver;
+    box-shadow:1px 1px 2px 2px #504848;-webkit-box-shadow:1px 1px 2px 2px #504848;-moz-box-shadow:1px 1px 2px 2px #504848;}
+/***********************************************************/
+/*****************************COUNT DOWN**********************/
+.number-wrapper {-moz-box-shadow: 0 5px 8px #000000;-webkit-box-shadow: 0 5px 8px #000000;box-shadow: 0 5px 8px #000000;position: relative;}
+.line {position: absolute;width: 100%;height: 1px;top: 52%;left: 0;background: #000;
+    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2);-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2);box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2);}
+.caption {font-size: 12px;position: absolute;bottom: -20px;left: 0;text-align: center;width: 100%;color: white;}
+.number {display: inline-block;background: #000;background-image: linear-gradient(bottom, #000000 2%, #3c3c3c 50%, #000000 100%);
+    background-image: -o-linear-gradient(bottom, #000000 2%, #3c3c3c 50%, #000000 100%);background-image: -moz-linear-gradient(bottom, #000000 2%, #3c3c3c 50%, #000000 100%);
+    background-image: -webkit-linear-gradient(bottom, #000000 2%, #3c3c3c 50%, #000000 100%);background-image: -ms-linear-gradient(bottom, #000000 2%, #3c3c3c 50%, #000000 100%);
+    -webkit-border-top-right-radius: 7px;-webkit-border-bottom-right-radius: 0;-webkit-border-bottom-left-radius: 0;-webkit-border-top-left-radius: 0;
+    -moz-border-radius-topright: 7px;-moz-border-radius-bottomright: 0;-moz-border-radius-bottomleft: 0;-moz-border-radius-topleft: 0;border-top-right-radius: 7px;
+    border-bottom-right-radius: 0;border-bottom-left-radius: 0;border-top-left-radius: 0;-webkit-border-radius: 7px;-moz-border-radius: 7px;border-radius: 7px;
+    -moz-background-clip: padding;-webkit-background-clip: padding-box;background-clip: padding-box;padding: 0 0px;height: 80px;width: 45px;line-height: 80px;text-align: center;
+    border: 1px solid #555;-moz-box-shadow: inset 0 4px 0 rgba(255, 255, 255, 0.2);-webkit-box-shadow: inset 0 4px 0 rgba(255, 255, 255, 0.2);
+    box-shadow: inset 0 4px 0 rgba(255, 255, 255, 0.2);-moz-text-shadow: 0 3px 3px #000000;-webkit-text-shadow: 0 3px 3px #000000;
+    text-shadow: 0 3px 3px #000000;color: white;}
+/****************************************************************/
+/**********  IMAGE WHEN TEAM is not selected or 11 if left *************/
+.background-noimage-div{position: absolute;top:75px;left: 0px;width: 670px;height: 415px;}
+.background-image-div{position: absolute;top:75px;left: 15px;width: 670px;height: 415px;background-image: url("../photos/dailyChellenge/daily-bgImg1.jpg");}
+.background-image2-div{position: absolute;top: 50px;width: 700px;height: 415px;background-image: url("../photos/dailyChellenge/daily-bgImg2.jpg");}
+/*************************************************************************/
+
+
+

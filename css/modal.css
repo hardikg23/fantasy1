@@ -1,0 +1,28 @@
+#mask { position:absolute; left:0;top:0;z-index:9000;background-color:#000;display:none;}
+#box .window { position:fixed; left:0; top:0; width:750px; height:450px; display:none; z-index:9999; padding:20px; }
+#box #dialog1 {width:750px; height:600px;padding:10px; background-color:#ffffff;box-shadow:2px 2px 10px 10px #504848;-webkit-box-shadow:2px 2px 10px 10x #504848;
+-moz-box-shadow:2px 2px 10px 10px #504848;}
+#box #dialog2 {width:750px;height:550px;padding:10px;background-color:#ffffff;box-shadow:2px 2px 10px 10px #504848;-webkit-box-shadow:2px 2px 10px 10x #504848;
+-moz-box-shadow:2px 2px 10px 10px #504848;}
+#box #dialog3 {width:750px;height:550px;padding:10px;background-color:#ffffff;box-shadow:2px 2px 10px 10px #504848;-webkit-box-shadow:2px 2px 10px 10x #504848;
+-moz-box-shadow:2px 2px 10px 10px #504848;}
+#box #dialog4 {width:750px;height:550px;padding:10px;background-color:#ffffff;box-shadow:2px 2px 10px 10px #504848;-webkit-box-shadow:2px 2px 10px 10x #504848;
+-moz-box-shadow:2px 2px 10px 10px #504848;}
+#box #dialog5 {width:750px;height:550px;padding:10px;background-color:#ffffff;box-shadow:2px 2px 10px 10px #504848;-webkit-box-shadow:2px 2px 10px 10x #504848;
+-moz-box-shadow:2px 2px 10px 10px #504848;}
+#box #dialog6 {width:750px;height:550px;padding:10px;background-color:#ffffff;box-shadow:2px 2px 10px 10px #504848;-webkit-box-shadow:2px 2px 10px 10x #504848;
+-moz-box-shadow:2px 2px 10px 10px #504848;}
+ #box #saveDialog {width:500px;height:400px;padding:10px;background-color:#ffffff;overflow-y:scroll;box-shadow:2px 2px 10px 10px #504848;
+-webkit-box-shadow:2px 2px 10px 10x #504848;-moz-box-shadow:2px 2px 10px 10px #504848;}  
+.window{}
+  /* HOW to play header*/
+.header{color: white;font-size: 14px;font-weight: bold;background: #0E075F;}
+.content{width:725px;height:500px;left: 20px;top: 50px;overflow-y:scroll;overflow-x:auto;}
+.content-header{padding-top: 3px;padding-bottom: 3px;padding-left: 10px;padding-right: 10px;background-color: #E7650E;color:white;font-size: 13px;font-weight: bold;width: 95%;}
+.faq-content-header{color: white;font-size: 10px;height: 11px;background: #0E075F;}
+.content-content{padding-top: 5px;padding-bottom: 10px;padding-left: 15px;padding-right: 15px;color:#555555;font-size: 13px;text-justify: auto;}
+.content-ul{color:#555555;font-size: 13px;padding-left: 48px;}
+#box #forgotpass {width:750px; height:200px;padding:10px; background-color:#ffffff;box-shadow:2px 2px 10px 10px #504848;-webkit-box-shadow:2px 2px 10px 10x #504848;
+-moz-box-shadow:2px 2px 10px 10px #504848;} 
+  
+  

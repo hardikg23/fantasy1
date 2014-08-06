@@ -1,0 +1,21 @@
+root { 
+    display: block;
+}
+body{background-image: url('../photos/background.jpg');}
+a{text-decoration: none;color: black;}
+.font-containt-bold{font-family: "Lao UI";font-weight: bold;}
+.font-containt{font-family: "Lao UI";}
+.black-header{font-size: 14px;background-color: black;color: white;height: 22px;padding-left: 10px;}
+.box-shadow-comman{box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;-webkit-box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;
+    -moz-box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;}
+.filler{box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;-webkit-box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;
+    -moz-box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;}
+.fixture-div-item-container{width:980px;height:120px;box-shadow:1px 1px 1px 1px #504848,-1px -1px 1px 1px #504848;
+    -webkit-box-shadow:1px 1px 1px 1px #504848,-1px -1px 1px 1px #504848;-moz-box-shadow:1px 1px 1px 1px #504848,-1px -1px 1px 1px #504848;font-size: 12px;}
+
+.fixture-images{border: 1px solid silver;box-shadow:1px 1px 1px 1px #504848,-1px -1px 1px 1px #504848;
+    -webkit-box-shadow:1px 1px 1px 1px #504848,-1px -1px 1px 1px #504848;-moz-box-shadow:1px 1px 1px 1px #504848,-1px -1px 1px 1px #504848;}
+.selection-table{width: 100%;font-size: 12px; color:#272628;}
+.selection-table th{border-bottom:1px solid silver;height: 28px;padding-left: 10px;font-weight: bold;background-color: #3C0490;color: white;font-size: 13px;}
+.selection-table td{border-bottom:1px solid silver;padding-left: 10px;padding-right: 10px;}
+
