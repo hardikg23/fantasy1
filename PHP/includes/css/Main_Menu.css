@@ -1,0 +1,42 @@
+/* 
+    Document   : Main_Menu
+    Created on : 23 Jan, 2014, 5:42:24 PM
+    Author     : Jitendra D. Prajapat
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+.MainMenu{
+    background: black;
+    height:30px;
+}
+.MainMenuElement{
+    display: inline-block;
+    padding: 3px 20px;
+    color: white ;
+    text-decoration: none;
+    height: 20px;
+    font-size: 11px;
+}
+
+
+.MainMenu .MainMenuElement:hover {
+    background-color:#FB9759;
+    height: 20px;
+    border-radius: 5px;
+    font-weight: 900;
+    font-size: 14px;
+    border: 2px solid black;
+}
+
+.MainElement{
+    background-color:#F0620B; /* Fallback */
+    padding-top: 3px;
+    border-radius: 5px;
+    height: 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    border: 2px solid black;
+}

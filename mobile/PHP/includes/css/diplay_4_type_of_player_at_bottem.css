@@ -1,0 +1,60 @@
+/* 
+    Document   : diplay_4_type_of_player_at_bottem
+    Created on : Feb 20, 2014, 4:56:15 PM
+    Author     : Hardik
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.font-containt-bold{
+    font-family: "Lao UI";
+    font-weight: bold;
+}
+
+.font-containt{
+    font-family: "Lao UI";
+}
+.box-shadow-comman{
+    box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;
+    -webkit-box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;
+    -moz-box-shadow:6px 0px 5px -5px #504848, -6px 0px 5px -5px #504848;
+}
+
+.black-header{
+    font-size: 14px;
+    background-color: black;
+    color: white;
+    height: 22px;
+    padding-left: 10px;
+}
+
+
+.player-table{
+    width: 100%;
+}
+.player-table th{
+    
+    font-size: 14px;
+    color: white;
+    text-align: left;
+    padding-left: 5px;
+}
+.player-table td{
+    background-color: white;
+    font-size: 12px;
+    padding-left: 5px;
+    border-bottom: 1px solid silver;
+}

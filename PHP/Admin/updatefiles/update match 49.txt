@@ -1,0 +1,24 @@
+UPDATE s2_player_data SET match49='4#@#0#@#0#@#0', batting_pts=batting_pts+4, bowling_pts=bowling_pts+0, fielding_pts=fielding_pts+0,total_bonus=total_bonus+0, total_point=total_point+4 WHERE id=17000002 ;
+UPDATE s2_player_data SET match49='89#@#0#@#30#@#0', batting_pts=batting_pts+89, bowling_pts=bowling_pts+0, fielding_pts=fielding_pts+30,total_bonus=total_bonus+0, total_point=total_point+119 WHERE id=37000020 ;
+UPDATE s2_player_data SET match49='74#@#0#@#15#@#0', batting_pts=batting_pts+74, bowling_pts=bowling_pts+0, fielding_pts=fielding_pts+15,total_bonus=total_bonus+0, total_point=total_point+89 WHERE id=17000001 ;
+UPDATE s2_player_data SET match49='58#@#-3#@#0#@#0', batting_pts=batting_pts+58, bowling_pts=bowling_pts+-3, fielding_pts=fielding_pts+0,total_bonus=total_bonus+0, total_point=total_point+55 WHERE id=47000004 ;
+UPDATE s2_player_data SET match49='21#@#0#@#0#@#0', batting_pts=batting_pts+21, bowling_pts=bowling_pts+0, fielding_pts=fielding_pts+0,total_bonus=total_bonus+0, total_point=total_point+21 WHERE id=27000003 ;
+UPDATE s2_player_data SET match49='54#@#0#@#0#@#0', batting_pts=batting_pts+54, bowling_pts=bowling_pts+0, fielding_pts=fielding_pts+0,total_bonus=total_bonus+0, total_point=total_point+54 WHERE id=57000016 ;
+UPDATE s2_player_data SET match49='35#@#41#@#15#@#0', batting_pts=batting_pts+35, bowling_pts=bowling_pts+41, fielding_pts=fielding_pts+15,total_bonus=total_bonus+0, total_point=total_point+91 WHERE id=57000005 ;
+UPDATE s2_player_data SET match49='0#@#40#@#0#@#0', batting_pts=batting_pts+0, bowling_pts=bowling_pts+40, fielding_pts=fielding_pts+0,total_bonus=total_bonus+0, total_point=total_point+40 WHERE id=57000015 ;
+UPDATE s2_player_data SET match49='0#@#-21#@#0#@#0', batting_pts=batting_pts+0, bowling_pts=bowling_pts+-21, fielding_pts=fielding_pts+0,total_bonus=total_bonus+0, total_point=total_point+-21 WHERE id=57000021 ;
+UPDATE s2_player_data SET match49='0#@#1#@#0#@#0', batting_pts=batting_pts+0, bowling_pts=bowling_pts+1, fielding_pts=fielding_pts+0,total_bonus=total_bonus+0, total_point=total_point+1 WHERE id=57000010 ;
+UPDATE s2_player_data SET match49='0#@#30#@#0#@#0', batting_pts=batting_pts+0, bowling_pts=bowling_pts+30, fielding_pts=fielding_pts+0,total_bonus=total_bonus+0, total_point=total_point+30 WHERE id=57000008 ;
+
+
+UPDATE s2_player_data SET match49='178#@#0#@#0#@#60', batting_pts=batting_pts+178, bowling_pts=bowling_pts+0, fielding_pts=fielding_pts+0,total_bonus=total_bonus+60, total_point=total_point+238 WHERE id=14000004 ;
+UPDATE s2_player_data SET match49='5#@#0#@#0#@#10', batting_pts=batting_pts+5, bowling_pts=bowling_pts+0, fielding_pts=fielding_pts+0,total_bonus=total_bonus+10, total_point=total_point+15 WHERE id=14000001 ;
+UPDATE s2_player_data SET match49='22#@#0#@#0#@#10', batting_pts=batting_pts+22, bowling_pts=bowling_pts+0, fielding_pts=fielding_pts+0,total_bonus=total_bonus+10, total_point=total_point+32 WHERE id=14000011 ;
+UPDATE s2_player_data SET match49='57#@#0#@#0#@#10', batting_pts=batting_pts+57, bowling_pts=bowling_pts+0, fielding_pts=fielding_pts+0,total_bonus=total_bonus+10, total_point=total_point+67 WHERE id=44000006 ;
+UPDATE s2_player_data SET match49='142#@#23#@#0#@#10', batting_pts=batting_pts+142, bowling_pts=bowling_pts+23, fielding_pts=fielding_pts+0,total_bonus=total_bonus+10, total_point=total_point+175 WHERE id=44000007 ;
+UPDATE s2_player_data SET match49='16#@#0#@#0#@#10', batting_pts=batting_pts+16, bowling_pts=bowling_pts+0, fielding_pts=fielding_pts+0,total_bonus=total_bonus+10, total_point=total_point+26 WHERE id=44000014 ;
+UPDATE s2_player_data SET match49='0#@#0#@#0#@#10', batting_pts=batting_pts+0, bowling_pts=bowling_pts+0, fielding_pts=fielding_pts+0,total_bonus=total_bonus+10, total_point=total_point+10 WHERE id=14000015 ;
+UPDATE s2_player_data SET match49='0#@#44#@#15#@#10', batting_pts=batting_pts+0, bowling_pts=bowling_pts+44, fielding_pts=fielding_pts+15,total_bonus=total_bonus+10, total_point=total_point+69 WHERE id=54000008 ;
+UPDATE s2_player_data SET match49='0#@#171#@#0#@#10', batting_pts=batting_pts+0, bowling_pts=bowling_pts+171, fielding_pts=fielding_pts+0,total_bonus=total_bonus+10, total_point=total_point+181 WHERE id=54000002 ;
+UPDATE s2_player_data SET match49='0#@#14#@#0#@#10', batting_pts=batting_pts+0, bowling_pts=bowling_pts+14, fielding_pts=fielding_pts+0,total_bonus=total_bonus+10, total_point=total_point+24 WHERE id=54000010 ;
+UPDATE s2_player_data SET match49='0#@#-14#@#15#@#10', batting_pts=batting_pts+0, bowling_pts=bowling_pts+-14, fielding_pts=fielding_pts+15,total_bonus=total_bonus+10, total_point=total_point+11 WHERE id=54000009 ;

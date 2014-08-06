@@ -1,0 +1,66 @@
+/* 
+    Document   : Login_Logout
+    Created on : 24 Jan, 2014, 10:09:13 PM
+    Author     : Jitendra D. Prajapat
+    Description:
+        Purpose of the stylesheet follows.
+*/
+/*
+.Login_Logout, .User_Logout{
+
+    height:30px;
+    border-radius: 5px;
+}
+*/
+a{
+    text-decoration: none;
+}
+
+.font-containt-bold{
+    font-family: "Lao UI";
+    font-weight: bold;
+}
+
+.font-containt{
+    font-family: "Lao UI";
+}
+
+
+.email-text, .password-text{
+    border: 1px solid silver;
+    height: 20px;
+    width: 140px;
+    padding-left: 4px;
+    font-family: "calibri";
+    font-size: 12px;
+}
+.login-button{
+    background-color: #0C0FC9;
+    color: white;
+    border: 1px solid #071D9B;
+    padding-left:8px;
+    padding-right: 8px;
+    height: 25px;
+    border-radius:3px;
+    cursor: pointer;
+    -webkit-box-shadow:1px 1px 1px 1px #504848;
+    -moz-box-shadow:1px 1px 1px 1px #504848;
+}
+
+.forget-text{
+    color: #0C0FC9;
+    font-size: 10px;
+    text-decoration: underline;
+}
+
+.register-text{
+    color: #0C0FC9;
+    font-size: 12px;
+}
+
+.login-setting{
+    color: #0C0FC9;
+    font-size: 12px;
+    padding-left: 8px;
+    padding-right: 8px;
+}

@@ -1,0 +1,79 @@
+/* 
+    Document   : Sub_Menu
+    Created on : 24 Jan, 2014, 6:00:43 PM
+    Author     : Jitendra D. Prajapat
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+.SubMenu{
+    background:#F0620B;
+    height:30px;
+}
+
+.SubMenuElement{
+    display: inline-block;
+    padding: 3px 15px;
+    color: white ;
+    text-decoration: none;
+    height: 20px;
+    font-size: 11px;
+}
+
+.SubMenu .SubMenuElement:hover {
+    background-color:black;
+    height: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    font-weight: 900;
+    font-size: 13px;
+    border: 2px solid #F0620B;
+    
+}
+.SubElement{
+    background-color:black; /* Fallback */
+    padding-top: 3px;
+    border-radius: 5px;
+    height: 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 13px;
+    border: 2px solid #F0620B;
+   
+}
+
+
+
+.SubLargeMenu{
+    background:#F0620B;
+    height:30px;
+}
+.SubLargeMenuElement{
+    display: inline-block;
+    padding: 3px 6px;
+    color: white ;
+    text-decoration: none;
+    height: 20px;
+    font-size: 11px;
+}
+.SubLargeMenu .SubLargeMenuElement:hover {
+    background-color:black;
+    height: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    font-weight: 900;
+    font-size: 13px;
+    border: 2px solid #F0620B;
+}
+.SubLargeElement{
+    background-color:black; /* Fallback */
+    padding-top: 3px;
+    border-radius: 5px;
+    height: 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 13px;
+    border: 2px solid #F0620B;
+
+}
